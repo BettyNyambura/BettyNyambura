@@ -5,8 +5,8 @@
 
 - <b> ALX Sofware Engineering Training </b>
 
-- <b>Django Project</b>
-  - [Creating an App in Django ](https://github.com/BettyNyambura/bugb/tree/main/bugb/bug)
+- <b>React+Vite Project</b>
+  - [My Portfolio](https://betty-ten.vercel.app/)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   
 - <b>PowerShell</b>
