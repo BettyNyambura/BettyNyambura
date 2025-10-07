@@ -1,20 +1,7 @@
 <h1>Hi, I'm Betty!
 <h1> Software Developer 
 
-<h2>👨‍💻 Software Development Projects:</h2>
 
-- <b> ALX Sofware Engineering Training </b>
-
-- <b>React+Vite Project</b>
-  - [My Portfolio](https://betty-ten.vercel.app/)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  
-- <b>PowerShell</b>
-  
-- <b>C# (.NET Desktop Applications)</b>
-
-- <b>Python</b>
-  - Package Delivery Application (Datastructures and Algorithms Demo)
 
 
 <h2> 🤳 Connect with me:</h2>
